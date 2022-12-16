@@ -31,9 +31,9 @@ const Testimonial = () => {
     n--;
     if (n >= 0) setcounter(n);
   };
-  setTimeout(()=>{
-    rigthClick()
-  },4000)
+  // setTimeout(()=>{
+  //   rigthClick()
+  // },4000)
   useEffect(() => {
     setImg(data[counter].image);
     setName(data[counter].name);
