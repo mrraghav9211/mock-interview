@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   background-color: black;
-  margin: auto;
+
 }
 .left-side {
   width: 30vw;
